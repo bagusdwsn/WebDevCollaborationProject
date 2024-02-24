@@ -2,3 +2,4 @@ Halo nama saya fatih
 asal kampus dari universitas teknologi yogyakarta
 prodi informatika angkatan 2021
 sekarang semester 6
+ini adalah file untuk perkenalan di github
